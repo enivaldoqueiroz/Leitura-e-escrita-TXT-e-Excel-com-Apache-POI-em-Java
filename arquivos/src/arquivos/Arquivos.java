@@ -32,7 +32,7 @@ public class Arquivos {
 		pessoas.add(pessoa2);
 		pessoas.add(pessoa3);
 		
-		File arquivo = new File("D:\\PROJETOS_DEV_2021\\JDEVTREINAMENTO\\Leitura-e-escrita-TXT-e-Excel-com-Apache-POI-em-Java\\arquivos\\src\\arquivos\\arquivo.txt");
+		File arquivo = new File("D:\\PROJETOS_DEV_2021\\JDEVTREINAMENTO\\Leitura-e-escrita-TXT-e-Excel-com-Apache-POI-em-Java\\arquivos\\src\\arquivos\\arquivo.csv");
 
 		if (!arquivo.exists()) {
 			

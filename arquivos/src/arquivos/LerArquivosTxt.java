@@ -13,7 +13,7 @@ public class LerArquivosTxt {
 		// TODO Lendo as linhas do arquivo de TXT
 		
 		FileInputStream entradaArquivo  = 
-				new FileInputStream(new File("D:\\PROJETOS_DEV_2021\\JDEVTREINAMENTO\\Leitura-e-escrita-TXT-e-Excel-com-Apache-POI-em-Java\\arquivos\\src\\arquivos\\arquivo.txt"));
+				new FileInputStream(new File("D:\\PROJETOS_DEV_2021\\JDEVTREINAMENTO\\Leitura-e-escrita-TXT-e-Excel-com-Apache-POI-em-Java\\arquivos\\src\\arquivos\\arquivo.csv"));
 
 		Scanner lerArquivo = new Scanner(entradaArquivo, "UTF-8");
 		
