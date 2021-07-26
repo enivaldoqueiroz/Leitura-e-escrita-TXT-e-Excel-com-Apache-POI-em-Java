@@ -1,3 +1,5 @@
 Alex Egidio;pessoa1@gmail.com;50
-Jose Queiroz;pessoa2@gmail.com;50
-Lana Queiroz;pessoa3@gmail.com;50
+Jose Queiroz;pessoa2@gmail.com;25
+Lana Queiroz;pessoa3@gmail.com;20
+
+Maria Costa;pessoa4@gmail.com;15
