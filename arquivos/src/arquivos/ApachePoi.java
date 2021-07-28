@@ -56,10 +56,10 @@ public class ApachePoi {
 			celNome.setCellValue(p.getNome());
 			
 			Cell celEmail = linha.createCell(celula++);//Celula 2º
-			celEmail.setCellValue(celula++);
+			celEmail.setCellValue(p.getEmail());
 			
 			Cell celIdade = linha.createCell(celula++);//Celula 3º
-			celIdade.setCellValue(celula++);
+			celIdade.setCellValue(p.getIdade());
 		}//Termino da montagem da planilha
 		
 		FileOutputStream saida = new FileOutputStream(file);
